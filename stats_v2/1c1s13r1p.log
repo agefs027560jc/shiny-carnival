@@ -1,0 +1,2402 @@
+1c1s13r1p
+
+
+top - 11:59:46 up  5:04,  0 users,  load average: 6.58, 4.62, 3.13
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.1 us, 11.9 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  4.0 si,  5.6 st
+MiB Mem :  31824.5 total,  22597.6 free,   7560.8 used,   1666.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23854.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824244   6.4g   6464 S  12.5  20.6   0:01.75 deptran_server
+  57177 ubuntu    20   0 7824244   6.4g   6464 R   6.2  20.6   0:00.87 deptran_server
+  57178 ubuntu    20   0 7824244   6.4g   6464 S   6.2  20.6   0:00.82 deptran_server
+  57179 ubuntu    20   0 7824244   6.4g   6464 S   6.2  20.6   0:00.79 deptran_server
+  57181 ubuntu    20   0 7824244   6.4g   6464 S   6.2  20.6   0:00.80 deptran_server
+  57182 ubuntu    20   0 7824244   6.4g   6464 S   6.2  20.6   0:00.80 deptran_server
+  57183 ubuntu    20   0 7824244   6.4g   6464 S   6.2  20.6   0:00.80 deptran_server
+  57184 ubuntu    20   0 7824244   6.4g   6464 S   6.2  20.6   0:00.82 deptran_server
+  57186 ubuntu    20   0 7824244   6.4g   6464 S   6.2  20.6   0:00.80 deptran_server
+  57187 ubuntu    20   0 7824244   6.4g   6464 S   6.2  20.6   0:00.79 deptran_server
+  57188 ubuntu    20   0 7824244   6.4g   6464 S   6.2  20.6   0:00.79 deptran_server
+  57189 ubuntu    20   0 7824244   6.4g   6464 S   6.2  20.6   0:00.80 deptran_server
+  57190 ubuntu    20   0 7824244   6.4g   6464 S   6.2  20.6   0:00.74 deptran_server
+  57106 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+  57180 ubuntu    20   0 7824244   6.4g   6464 R   0.0  20.6   0:00.81 deptran_server
+  57191 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+
+top - 11:59:47 up  5:04,  0 users,  load average: 6.06, 4.54, 3.11
+Threads:  16 total,   0 running,  16 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us, 10.7 sy,  0.0 ni, 73.4 id,  0.0 wa,  0.0 hi,  3.2 si,  6.8 st
+MiB Mem :  31824.5 total,  22597.6 free,   7560.8 used,   1666.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23854.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824244   6.4g   6464 S  16.0  20.6   0:01.91 deptran_server
+  57186 ubuntu    20   0 7824244   6.4g   6464 S   9.0  20.6   0:00.89 deptran_server
+  57189 ubuntu    20   0 7824244   6.4g   6464 S   9.0  20.6   0:00.89 deptran_server
+  57179 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:00.87 deptran_server
+  57180 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:00.89 deptran_server
+  57181 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:00.88 deptran_server
+  57182 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:00.88 deptran_server
+  57183 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:00.88 deptran_server
+  57184 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:00.90 deptran_server
+  57187 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:00.87 deptran_server
+  57190 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:00.82 deptran_server
+  57177 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:00.94 deptran_server
+  57178 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:00.89 deptran_server
+  57188 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:00.86 deptran_server
+  57106 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+
+top - 11:59:48 up  5:04,  0 users,  load average: 6.06, 4.54, 3.11
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.8 us,  8.1 sy,  0.0 ni, 75.5 id,  0.0 wa,  0.0 hi,  1.5 si,  9.0 st
+MiB Mem :  31824.5 total,  22597.6 free,   7560.8 used,   1666.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23854.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824244   6.4g   6464 S  15.0  20.6   0:02.06 deptran_server
+  57177 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.01 deptran_server
+  57182 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:00.95 deptran_server
+  57187 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:00.94 deptran_server
+  57188 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:00.93 deptran_server
+  57178 ubuntu    20   0 7824244   6.4g   6464 R   6.0  20.6   0:00.95 deptran_server
+  57179 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:00.93 deptran_server
+  57180 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:00.95 deptran_server
+  57183 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:00.94 deptran_server
+  57184 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:00.96 deptran_server
+  57181 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:00.93 deptran_server
+  57186 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:00.94 deptran_server
+  57189 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:00.94 deptran_server
+  57190 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:00.87 deptran_server
+  57106 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+
+top - 11:59:49 up  5:04,  0 users,  load average: 6.06, 4.54, 3.11
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.1 us,  6.8 sy,  0.0 ni, 75.7 id,  0.0 wa,  0.0 hi,  1.6 si, 11.8 st
+MiB Mem :  31824.5 total,  22584.3 free,   7565.1 used,   1675.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23849.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824244   6.4g   6464 S  14.0  20.6   0:02.20 deptran_server
+  57181 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.00 deptran_server
+  57182 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.02 deptran_server
+  57186 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.01 deptran_server
+  57189 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.01 deptran_server
+  57190 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:00.94 deptran_server
+  57177 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.07 deptran_server
+  57178 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.01 deptran_server
+  57179 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:00.99 deptran_server
+  57180 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.01 deptran_server
+  57183 ubuntu    20   0 7824244   6.4g   6464 R   6.0  20.6   0:01.00 deptran_server
+  57184 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.02 deptran_server
+  57188 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:00.99 deptran_server
+  57187 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:00.99 deptran_server
+  57106 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+
+top - 11:59:50 up  5:04,  0 users,  load average: 6.06, 4.54, 3.11
+Threads:  16 total,   4 running,  12 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.6 us,  5.5 sy,  0.0 ni, 74.7 id,  0.0 wa,  0.0 hi,  1.2 si, 14.9 st
+MiB Mem :  31824.5 total,  22584.3 free,   7565.1 used,   1675.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23849.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824244   6.4g   6464 S  11.0  20.6   0:02.31 deptran_server
+  57177 ubuntu    20   0 7824244   6.4g   6464 R   6.0  20.6   0:01.13 deptran_server
+  57178 ubuntu    20   0 7824244   6.4g   6464 R   6.0  20.6   0:01.07 deptran_server
+  57180 ubuntu    20   0 7824244   6.4g   6464 R   6.0  20.6   0:01.07 deptran_server
+  57183 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.06 deptran_server
+  57188 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.05 deptran_server
+  57179 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:01.04 deptran_server
+  57181 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:01.05 deptran_server
+  57184 ubuntu    20   0 7824244   6.4g   6464 R   5.0  20.6   0:01.07 deptran_server
+  57186 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:01.06 deptran_server
+  57187 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:01.04 deptran_server
+  57189 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:01.06 deptran_server
+  57190 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:00.99 deptran_server
+  57182 ubuntu    20   0 7824244   6.4g   6464 S   4.0  20.6   0:01.06 deptran_server
+  57106 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+
+top - 11:59:51 up  5:04,  0 users,  load average: 6.06, 4.54, 3.11
+Threads:  16 total,   6 running,  10 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.7 us,  8.6 sy,  0.0 ni, 74.0 id,  0.0 wa,  0.0 hi,  2.5 si,  9.2 st
+MiB Mem :  31824.5 total,  22584.3 free,   7565.1 used,   1675.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23849.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824244   6.4g   6464 R  14.9  20.6   0:02.46 deptran_server
+  57184 ubuntu    20   0 7824244   6.4g   6464 S   7.9  20.6   0:01.15 deptran_server
+  57177 ubuntu    20   0 7824244   6.4g   6464 R   6.9  20.6   0:01.20 deptran_server
+  57180 ubuntu    20   0 7824244   6.4g   6464 S   6.9  20.6   0:01.14 deptran_server
+  57181 ubuntu    20   0 7824244   6.4g   6464 R   6.9  20.6   0:01.12 deptran_server
+  57182 ubuntu    20   0 7824244   6.4g   6464 R   6.9  20.6   0:01.13 deptran_server
+  57183 ubuntu    20   0 7824244   6.4g   6464 S   6.9  20.6   0:01.13 deptran_server
+  57186 ubuntu    20   0 7824244   6.4g   6464 S   6.9  20.6   0:01.13 deptran_server
+  57188 ubuntu    20   0 7824244   6.4g   6464 S   6.9  20.6   0:01.12 deptran_server
+  57189 ubuntu    20   0 7824244   6.4g   6464 S   6.9  20.6   0:01.13 deptran_server
+  57178 ubuntu    20   0 7824244   6.4g   6464 R   5.9  20.6   0:01.13 deptran_server
+  57179 ubuntu    20   0 7824244   6.4g   6464 S   5.9  20.6   0:01.10 deptran_server
+  57187 ubuntu    20   0 7824244   6.4g   6464 S   5.9  20.6   0:01.10 deptran_server
+  57190 ubuntu    20   0 7824244   6.4g   6464 R   5.9  20.6   0:01.05 deptran_server
+  57106 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+
+top - 11:59:52 up  5:04,  0 users,  load average: 5.65, 4.48, 3.10
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.6 us,  9.1 sy,  0.0 ni, 72.8 id,  0.0 wa,  0.0 hi,  2.2 si, 10.3 st
+MiB Mem :  31824.5 total,  22572.3 free,   7569.5 used,   1682.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23845.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824244   6.4g   6464 R  15.0  20.6   0:02.61 deptran_server
+  57177 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:01.28 deptran_server
+  57179 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:01.18 deptran_server
+  57186 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:01.21 deptran_server
+  57178 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.20 deptran_server
+  57180 ubuntu    20   0 7824244   6.4g   6464 R   7.0  20.6   0:01.21 deptran_server
+  57181 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.19 deptran_server
+  57182 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.20 deptran_server
+  57183 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.20 deptran_server
+  57187 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.17 deptran_server
+  57189 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.20 deptran_server
+  57184 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.21 deptran_server
+  57188 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.18 deptran_server
+  57190 ubuntu    20   0 7824244   6.4g   6464 R   5.0  20.6   0:01.10 deptran_server
+  57106 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+
+top - 11:59:53 up  5:04,  0 users,  load average: 5.65, 4.48, 3.10
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.8 us,  8.3 sy,  0.0 ni, 73.9 id,  0.0 wa,  0.0 hi,  3.2 si,  8.7 st
+MiB Mem :  31824.5 total,  22572.3 free,   7569.5 used,   1682.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23845.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824244   6.4g   6464 R  16.0  20.6   0:02.77 deptran_server
+  57177 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.35 deptran_server
+  57181 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.26 deptran_server
+  57182 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.27 deptran_server
+  57183 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.27 deptran_server
+  57184 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.28 deptran_server
+  57186 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.28 deptran_server
+  57187 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.24 deptran_server
+  57188 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.25 deptran_server
+  57189 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.27 deptran_server
+  57190 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.17 deptran_server
+  57178 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.26 deptran_server
+  57179 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.24 deptran_server
+  57180 ubuntu    20   0 7824244   6.4g   6464 R   6.0  20.6   0:01.27 deptran_server
+  57106 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+
+top - 11:59:54 up  5:04,  0 users,  load average: 5.65, 4.48, 3.10
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.2 us, 10.6 sy,  0.0 ni, 73.9 id,  0.0 wa,  0.0 hi,  2.3 si,  6.0 st
+MiB Mem :  31824.5 total,  22572.3 free,   7569.5 used,   1682.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23845.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824244   6.4g   6464 S  16.0  20.6   0:02.93 deptran_server
+  57188 ubuntu    20   0 7824244   6.4g   6464 R   9.0  20.6   0:01.34 deptran_server
+  57177 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:01.43 deptran_server
+  57178 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:01.34 deptran_server
+  57179 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:01.32 deptran_server
+  57180 ubuntu    20   0 7824244   6.4g   6464 R   8.0  20.6   0:01.35 deptran_server
+  57181 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:01.34 deptran_server
+  57182 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:01.35 deptran_server
+  57183 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:01.35 deptran_server
+  57184 ubuntu    20   0 7824244   6.4g   6464 R   8.0  20.6   0:01.36 deptran_server
+  57187 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:01.32 deptran_server
+  57186 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.35 deptran_server
+  57189 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.34 deptran_server
+  57190 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.24 deptran_server
+  57106 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+
+top - 11:59:55 up  5:04,  0 users,  load average: 5.65, 4.48, 3.10
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.1 us,  9.6 sy,  0.0 ni, 73.8 id,  0.0 wa,  0.0 hi,  2.2 si,  8.4 st
+MiB Mem :  31824.5 total,  22560.5 free,   7570.7 used,   1693.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23844.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824244   6.4g   6464 S  14.9  20.6   0:03.08 deptran_server
+  57178 ubuntu    20   0 7824244   6.4g   6464 S   8.9  20.6   0:01.43 deptran_server
+  57177 ubuntu    20   0 7824244   6.4g   6464 R   7.9  20.6   0:01.51 deptran_server
+  57179 ubuntu    20   0 7824244   6.4g   6464 S   7.9  20.6   0:01.40 deptran_server
+  57182 ubuntu    20   0 7824244   6.4g   6464 S   7.9  20.6   0:01.43 deptran_server
+  57184 ubuntu    20   0 7824244   6.4g   6464 S   7.9  20.6   0:01.44 deptran_server
+  57187 ubuntu    20   0 7824244   6.4g   6464 S   7.9  20.6   0:01.40 deptran_server
+  57189 ubuntu    20   0 7824244   6.4g   6464 R   7.9  20.6   0:01.42 deptran_server
+  57180 ubuntu    20   0 7824244   6.4g   6464 R   6.9  20.6   0:01.42 deptran_server
+  57181 ubuntu    20   0 7824244   6.4g   6464 S   6.9  20.6   0:01.41 deptran_server
+  57186 ubuntu    20   0 7824244   6.4g   6464 S   6.9  20.6   0:01.42 deptran_server
+  57188 ubuntu    20   0 7824244   6.4g   6464 S   6.9  20.6   0:01.41 deptran_server
+  57190 ubuntu    20   0 7824244   6.4g   6464 S   6.9  20.6   0:01.31 deptran_server
+  57183 ubuntu    20   0 7824244   6.4g   6464 S   5.9  20.6   0:01.41 deptran_server
+  57106 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+
+top - 11:59:56 up  5:04,  0 users,  load average: 5.65, 4.48, 3.10
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.4 us,  6.0 sy,  0.0 ni, 75.0 id,  0.0 wa,  0.0 hi,  2.4 si, 12.3 st
+MiB Mem :  31824.5 total,  22560.5 free,   7570.7 used,   1693.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23844.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824244   6.4g   6464 R  12.0  20.6   0:03.20 deptran_server
+  57178 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.49 deptran_server
+  57179 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.46 deptran_server
+  57181 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.47 deptran_server
+  57182 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.49 deptran_server
+  57183 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.47 deptran_server
+  57186 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.48 deptran_server
+  57188 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.47 deptran_server
+  57177 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:01.56 deptran_server
+  57180 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:01.47 deptran_server
+  57184 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:01.49 deptran_server
+  57187 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:01.45 deptran_server
+  57189 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:01.47 deptran_server
+  57190 ubuntu    20   0 7824244   6.4g   6464 S   5.0  20.6   0:01.36 deptran_server
+  57106 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+
+top - 11:59:57 up  5:04,  0 users,  load average: 5.60, 4.49, 3.11
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.7 us,  9.4 sy,  0.0 ni, 73.4 id,  0.0 wa,  0.0 hi,  2.6 si,  8.9 st
+MiB Mem :  31824.5 total,  22560.5 free,   7570.7 used,   1693.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23844.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824244   6.4g   6464 S  15.0  20.6   0:03.35 deptran_server
+  57177 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:01.64 deptran_server
+  57183 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:01.55 deptran_server
+  57186 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:01.56 deptran_server
+  57187 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.6   0:01.53 deptran_server
+  57189 ubuntu    20   0 7824244   6.4g   6464 R   8.0  20.6   0:01.55 deptran_server
+  57178 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.56 deptran_server
+  57180 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.54 deptran_server
+  57181 ubuntu    20   0 7824244   6.4g   6464 R   7.0  20.6   0:01.54 deptran_server
+  57182 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.56 deptran_server
+  57184 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.6   0:01.56 deptran_server
+  57179 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.52 deptran_server
+  57188 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.53 deptran_server
+  57190 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.6   0:01.42 deptran_server
+  57106 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.6   0:00.00 deptran_server
+
+top - 11:59:58 up  5:04,  0 users,  load average: 5.60, 4.49, 3.11
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.7 us, 10.6 sy,  0.0 ni, 74.1 id,  0.0 wa,  0.0 hi,  2.6 si,  6.0 st
+MiB Mem :  31824.5 total,  22549.6 free,   7572.7 used,   1702.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23842.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824244   6.4g   6464 S  17.0  20.7   0:03.52 deptran_server
+  57180 ubuntu    20   0 7824244   6.4g   6464 S   9.0  20.7   0:01.63 deptran_server
+  57179 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.7   0:01.60 deptran_server
+  57181 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.7   0:01.62 deptran_server
+  57184 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.7   0:01.64 deptran_server
+  57188 ubuntu    20   0 7824244   6.4g   6464 R   8.0  20.7   0:01.61 deptran_server
+  57190 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.7   0:01.50 deptran_server
+  57177 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.7   0:01.71 deptran_server
+  57178 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.7   0:01.63 deptran_server
+  57182 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.7   0:01.63 deptran_server
+  57183 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.7   0:01.62 deptran_server
+  57187 ubuntu    20   0 7824244   6.4g   6464 R   7.0  20.7   0:01.60 deptran_server
+  57189 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.7   0:01.62 deptran_server
+  57186 ubuntu    20   0 7824244   6.4g   6464 R   6.0  20.7   0:01.62 deptran_server
+  57106 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 11:59:59 up  5:04,  0 users,  load average: 5.60, 4.49, 3.11
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.8 us, 10.2 sy,  0.0 ni, 73.4 id,  0.6 wa,  0.0 hi,  3.3 si,  6.6 st
+MiB Mem :  31824.5 total,  22549.6 free,   7572.7 used,   1702.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23842.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824244   6.4g   6464 S  16.0  20.7   0:03.68 deptran_server
+  57178 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.7   0:01.71 deptran_server
+  57179 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.7   0:01.68 deptran_server
+  57183 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.7   0:01.70 deptran_server
+  57186 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.7   0:01.70 deptran_server
+  57188 ubuntu    20   0 7824244   6.4g   6464 S   8.0  20.7   0:01.69 deptran_server
+  57177 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.7   0:01.78 deptran_server
+  57180 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.7   0:01.70 deptran_server
+  57181 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.7   0:01.69 deptran_server
+  57182 ubuntu    20   0 7824244   6.4g   6464 R   7.0  20.7   0:01.70 deptran_server
+  57184 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.7   0:01.71 deptran_server
+  57187 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.7   0:01.67 deptran_server
+  57189 ubuntu    20   0 7824244   6.4g   6464 S   7.0  20.7   0:01.69 deptran_server
+  57190 ubuntu    20   0 7824244   6.4g   6464 S   6.0  20.7   0:01.56 deptran_server
+  57106 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824244   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:00 up  5:04,  0 users,  load average: 5.60, 4.49, 3.11
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.8 us,  7.9 sy,  0.0 ni, 75.5 id,  0.0 wa,  0.0 hi,  1.5 si, 10.3 st
+MiB Mem :  31824.5 total,  22549.6 free,   7572.7 used,   1702.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23842.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 R  12.9  20.7   0:03.81 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:01.85 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:01.77 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:01.74 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:01.77 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:01.74 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:01.76 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:01.75 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:01.76 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:01.77 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:01.76 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:01.75 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:01.75 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:01.62 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:01 up  5:04,  0 users,  load average: 5.60, 4.49, 3.11
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.6 us,  8.5 sy,  0.0 ni, 74.1 id,  0.0 wa,  0.0 hi,  2.6 si, 10.2 st
+MiB Mem :  31824.5 total,  22537.6 free,   7575.7 used,   1711.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23839.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 R  15.0  20.7   0:03.96 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:01.85 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:01.92 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:01.84 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:01.82 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:01.84 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:01.81 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:01.82 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.80 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.82 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.82 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.82 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.81 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.68 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:02 up  5:05,  0 users,  load average: 5.79, 4.55, 3.13
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.5 us,  6.2 sy,  0.0 ni, 73.2 id,  0.0 wa,  0.0 hi,  1.9 si, 15.3 st
+MiB Mem :  31824.5 total,  22537.6 free,   7575.7 used,   1711.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23839.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 R  12.0  20.7   0:04.08 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:01.99 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:01.89 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:01.88 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.90 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.88 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.90 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.88 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 R   6.0  20.7   0:01.87 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.88 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:01.85 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:01.87 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:01.90 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   4.0  20.7   0:01.72 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:03 up  5:05,  0 users,  load average: 5.79, 4.55, 3.13
+Threads:  16 total,   4 running,  12 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.0 us,  7.3 sy,  0.0 ni, 72.7 id,  0.0 wa,  0.0 hi,  2.5 si, 12.5 st
+MiB Mem :  31824.5 total,  22537.6 free,   7575.7 used,   1711.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23839.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 R  16.0  20.7   0:04.24 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:01.80 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 R   7.0  20.7   0:02.06 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 R   7.0  20.7   0:01.97 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:01.92 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:01.94 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 R   7.0  20.7   0:01.97 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:01.94 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:01.95 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.94 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.95 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.96 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.94 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.94 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:04 up  5:05,  0 users,  load average: 5.79, 4.55, 3.13
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.2 us,  7.9 sy,  0.0 ni, 71.1 id,  0.6 wa,  0.0 hi,  2.2 si, 14.0 st
+MiB Mem :  31824.5 total,  22529.2 free,   7577.5 used,   1717.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23837.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 R  15.0  20.7   0:04.39 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 R   8.0  20.7   0:02.02 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.02 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.02 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.13 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.04 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.04 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.03 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.01 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.01 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:01.87 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:01.98 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.01 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.01 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:05 up  5:05,  0 users,  load average: 5.79, 4.55, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.6 us,  7.9 sy,  0.0 ni, 73.5 id,  0.0 wa,  0.0 hi,  1.8 si, 12.3 st
+MiB Mem :  31824.5 total,  22529.2 free,   7577.5 used,   1717.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23837.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 S  13.9  20.7   0:04.53 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   7.9  20.7   0:02.06 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.20 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.11 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.08 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.10 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.09 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.08 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.08 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:01.94 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.10 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.08 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 R   5.9  20.7   0:02.08 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.06 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:06 up  5:05,  0 users,  load average: 5.79, 4.55, 3.13
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.5 us,  7.8 sy,  0.0 ni, 73.7 id,  0.0 wa,  0.0 hi,  2.5 si, 10.6 st
+MiB Mem :  31824.5 total,  22529.2 free,   7577.5 used,   1717.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23837.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 S  16.0  20.7   0:04.69 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.16 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 R   8.0  20.7   0:02.14 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.27 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.17 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.13 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.15 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 R   7.0  20.7   0:02.15 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.18 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.15 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.17 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 R   7.0  20.7   0:02.16 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.15 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.00 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:07 up  5:05,  0 users,  load average: 5.65, 4.54, 3.14
+Threads:  16 total,   0 running,  16 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.4 us,  7.2 sy,  0.0 ni, 72.3 id,  0.0 wa,  0.0 hi,  2.8 si, 13.4 st
+MiB Mem :  31824.5 total,  22519.4 free,   7579.8 used,   1725.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23835.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 S  14.0  20.7   0:04.83 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.25 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.26 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.24 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.34 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.20 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.22 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.22 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.23 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.21 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.07 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.21 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.23 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.21 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:08 up  5:05,  0 users,  load average: 5.65, 4.54, 3.14
+Threads:  16 total,   4 running,  12 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.0 us,  8.4 sy,  0.0 ni, 73.0 id,  0.0 wa,  0.0 hi,  2.6 si, 11.0 st
+MiB Mem :  31824.5 total,  22519.4 free,   7579.8 used,   1725.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23835.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 R  14.0  20.7   0:04.97 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   9.0  20.7   0:02.43 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 R   8.0  20.7   0:02.29 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.31 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 R   7.0  20.7   0:02.32 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 R   7.0  20.7   0:02.33 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.29 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.31 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.28 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.28 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.14 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.26 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.28 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.29 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:09 up  5:05,  0 users,  load average: 5.65, 4.54, 3.14
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.1 us,  6.5 sy,  0.0 ni, 73.2 id,  0.3 wa,  0.0 hi,  1.7 si, 14.3 st
+MiB Mem :  31824.5 total,  22519.4 free,   7579.8 used,   1725.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23835.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 S  15.8  20.7   0:05.13 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.33 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.35 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 R   5.9  20.7   0:02.49 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.38 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.35 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.39 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.35 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.35 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.37 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.37 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.33 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.33 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 R   5.0  20.7   0:02.19 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:10 up  5:05,  0 users,  load average: 5.65, 4.54, 3.14
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.0 us,  6.7 sy,  0.0 ni, 70.7 id,  0.0 wa,  0.0 hi,  1.7 si, 16.8 st
+MiB Mem :  31824.5 total,  22511.0 free,   7581.3 used,   1732.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23833.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 S  12.0  20.7   0:05.25 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.46 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.42 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.55 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.41 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.43 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.43 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.38 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.40 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.40 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 R   5.0  20.7   0:02.38 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.42 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.38 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.24 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:11 up  5:05,  0 users,  load average: 5.65, 4.54, 3.14
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.4 us,  5.5 sy,  0.0 ni, 73.7 id,  0.0 wa,  0.0 hi,  1.6 si, 15.8 st
+MiB Mem :  31824.5 total,  22511.0 free,   7581.3 used,   1732.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23833.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 R   9.9  20.7   0:05.35 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.61 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.46 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.46 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.44 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.48 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.43 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.46 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.51 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.47 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.48 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.47 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:02.43 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 R   5.0  20.7   0:02.29 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:12 up  5:05,  0 users,  load average: 5.27, 4.48, 3.13
+Threads:  16 total,   5 running,  11 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.7 us,  8.3 sy,  0.0 ni, 73.3 id,  0.0 wa,  0.0 hi,  2.6 si, 10.1 st
+MiB Mem :  31824.5 total,  22511.0 free,   7581.3 used,   1732.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23833.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 R  14.0  20.7   0:05.49 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 R   8.0  20.7   0:02.56 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.68 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 R   7.0  20.7   0:02.50 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.53 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.53 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 R   7.0  20.7   0:02.53 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 R   7.0  20.7   0:02.51 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.54 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.50 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.36 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.54 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.57 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.53 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:13 up  5:05,  0 users,  load average: 5.27, 4.48, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.7 us,  8.7 sy,  0.0 ni, 74.0 id,  0.0 wa,  0.0 hi,  3.0 si,  7.5 st
+MiB Mem :  31824.5 total,  22500.7 free,   7583.8 used,   1740.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23831.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 S  17.0  20.7   0:05.66 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.76 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.62 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.65 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.59 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.58 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.57 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.60 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.60 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.60 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.63 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.59 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 R   6.0  20.7   0:02.60 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.42 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:14 up  5:05,  0 users,  load average: 5.27, 4.48, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.6 us,  9.0 sy,  0.0 ni, 73.8 id,  0.0 wa,  0.0 hi,  2.5 si,  8.1 st
+MiB Mem :  31824.5 total,  22500.7 free,   7583.8 used,   1740.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23831.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 S  15.0  20.7   0:05.81 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.70 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.67 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.66 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.64 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.67 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.67 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.67 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.70 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.67 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.49 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.82 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 R   6.0  20.7   0:02.71 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.65 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:15 up  5:05,  0 users,  load average: 5.27, 4.48, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.0 us,  9.6 sy,  0.0 ni, 74.6 id,  0.0 wa,  0.0 hi,  2.1 si,  8.7 st
+MiB Mem :  31824.5 total,  22500.7 free,   7583.8 used,   1740.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23831.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 S  17.0  20.7   0:05.98 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.78 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.72 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.75 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 R   8.0  20.7   0:02.79 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.75 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.78 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.73 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.75 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.89 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.74 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.74 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.73 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.55 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:16 up  5:05,  0 users,  load average: 5.27, 4.48, 3.13
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.8 us,  9.3 sy,  0.0 ni, 73.0 id,  0.0 wa,  0.0 hi,  2.4 si,  9.5 st
+MiB Mem :  31824.5 total,  22489.1 free,   7585.9 used,   1749.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23829.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 S  15.8  20.7   0:06.14 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 R   7.9  20.7   0:02.97 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.85 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.79 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 R   6.9  20.7   0:02.81 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.86 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 R   6.9  20.7   0:02.81 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.85 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.80 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.62 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.81 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.81 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.81 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:02.79 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:17 up  5:05,  0 users,  load average: 5.17, 4.47, 3.13
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.5 us,  9.7 sy,  0.0 ni, 74.5 id,  0.0 wa,  0.0 hi,  2.1 si,  8.3 st
+MiB Mem :  31824.5 total,  22489.1 free,   7585.9 used,   1749.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23829.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 R  15.0  20.7   0:06.29 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 R   8.0  20.7   0:02.93 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.89 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.89 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.93 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.88 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.89 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.87 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.88 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.93 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.88 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:03.03 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.85 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.68 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:18 up  5:05,  0 users,  load average: 5.17, 4.47, 3.13
+Threads:  16 total,   4 running,  12 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.2 us,  9.4 sy,  0.0 ni, 72.1 id,  0.0 wa,  0.0 hi,  2.4 si,  9.9 st
+MiB Mem :  31824.5 total,  22489.1 free,   7585.9 used,   1749.6 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23829.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 R  17.0  20.7   0:06.46 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 R   9.0  20.7   0:03.12 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.01 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.93 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 R   8.0  20.7   0:02.96 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:02.97 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.01 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.95 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 R   7.0  20.7   0:02.96 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.00 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.95 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.96 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.94 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.75 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:19 up  5:05,  0 users,  load average: 5.17, 4.47, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.4 us,  9.4 sy,  0.0 ni, 72.9 id,  0.0 wa,  0.0 hi,  3.0 si,  8.3 st
+MiB Mem :  31824.5 total,  22476.5 free,   7589.1 used,   1758.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23825.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 S  17.0  20.7   0:06.63 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.20 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.04 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.09 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.03 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.08 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.04 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 R   8.0  20.7   0:03.02 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.08 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.00 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.04 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.03 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.02 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:02.82 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:20 up  5:05,  0 users,  load average: 5.17, 4.47, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us, 10.8 sy,  0.0 ni, 74.3 id,  0.0 wa,  0.0 hi,  2.4 si,  6.6 st
+MiB Mem :  31824.5 total,  22476.5 free,   7589.1 used,   1758.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23825.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 S  18.0  20.7   0:06.81 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.28 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 R   8.0  20.7   0:03.16 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.08 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.12 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.17 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.11 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.10 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.11 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.10 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.15 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.11 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.09 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:02.88 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:21 up  5:05,  0 users,  load average: 5.17, 4.47, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.2 us,  5.6 sy,  0.0 ni, 72.9 id,  0.0 wa,  0.0 hi,  1.7 si, 15.6 st
+MiB Mem :  31824.5 total,  22476.5 free,   7589.1 used,   1758.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23825.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 R  12.9  20.7   0:06.94 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:03.18 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:03.18 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   6.9  20.7   0:02.95 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:03.34 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:03.22 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:03.18 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:03.23 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:03.16 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:03.21 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:03.16 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:03.17 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   5.9  20.7   0:03.15 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:03.13 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:22 up  5:05,  0 users,  load average: 5.00, 4.45, 3.13
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.6 us,  7.4 sy,  0.0 ni, 73.9 id,  0.0 wa,  0.0 hi,  2.1 si, 11.0 st
+MiB Mem :  31824.5 total,  22464.7 free,   7591.3 used,   1768.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23823.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 S  15.0  20.7   0:07.09 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.41 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.29 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.25 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 R   7.0  20.7   0:03.25 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 R   7.0  20.7   0:03.30 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.23 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.25 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.28 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.23 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.24 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.22 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 R   6.0  20.7   0:03.19 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   5.0  20.7   0:03.00 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:23 up  5:05,  0 users,  load average: 5.00, 4.45, 3.13
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.3 us, 10.3 sy,  0.0 ni, 73.7 id,  0.0 wa,  0.0 hi,  2.3 si,  7.4 st
+MiB Mem :  31824.5 total,  22464.7 free,   7591.3 used,   1768.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23823.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 R  18.0  20.7   0:07.27 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.49 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.27 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.31 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.32 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.30 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.08 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.36 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 R   7.0  20.7   0:03.32 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.37 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.30 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.32 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.35 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:03.31 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:24 up  5:05,  0 users,  load average: 5.00, 4.45, 3.13
+Threads:  16 total,   4 running,  12 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.4 us, 11.3 sy,  0.0 ni, 74.2 id,  0.0 wa,  0.0 hi,  3.1 si,  5.0 st
+MiB Mem :  31824.5 total,  22464.7 free,   7591.3 used,   1768.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23823.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 S  17.0  20.7   0:07.44 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 R   9.0  20.7   0:03.36 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 R   9.0  20.7   0:03.40 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 R   9.0  20.7   0:03.39 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   9.0  20.7   0:03.44 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 R   8.0  20.7   0:03.57 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.44 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.40 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.45 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.40 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.40 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.38 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.38 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.15 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:25 up  5:05,  0 users,  load average: 5.00, 4.45, 3.13
+Threads:  16 total,   4 running,  12 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us, 10.2 sy,  0.0 ni, 73.5 id,  0.0 wa,  0.0 hi,  2.6 si,  7.7 st
+MiB Mem :  31824.5 total,  22451.0 free,   7594.3 used,   1779.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23820.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824408   6.4g   6464 R  16.0  20.7   0:07.60 deptran_server
+  57184 ubuntu    20   0 7824408   6.4g   6464 R   9.0  20.7   0:03.49 deptran_server
+  57180 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.48 deptran_server
+  57182 ubuntu    20   0 7824408   6.4g   6464 R   8.0  20.7   0:03.53 deptran_server
+  57183 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.47 deptran_server
+  57189 ubuntu    20   0 7824408   6.4g   6464 S   8.0  20.7   0:03.46 deptran_server
+  57177 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.64 deptran_server
+  57178 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.51 deptran_server
+  57179 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.43 deptran_server
+  57181 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.47 deptran_server
+  57187 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.45 deptran_server
+  57188 ubuntu    20   0 7824408   6.4g   6464 S   7.0  20.7   0:03.47 deptran_server
+  57186 ubuntu    20   0 7824408   6.4g   6464 S   6.0  20.7   0:03.50 deptran_server
+  57190 ubuntu    20   0 7824408   6.4g   6464 R   6.0  20.7   0:03.21 deptran_server
+  57106 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824408   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:26 up  5:05,  0 users,  load average: 5.00, 4.45, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.6 us, 12.2 sy,  0.0 ni, 73.3 id,  0.0 wa,  0.0 hi,  2.8 si,  5.0 st
+MiB Mem :  31824.5 total,  22451.0 free,   7594.3 used,   1779.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23820.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.4g   6464 S  17.8  20.7   0:07.78 deptran_server
+  57178 ubuntu    20   0 7824576   6.4g   6464 S   8.9  20.7   0:03.60 deptran_server
+  57177 ubuntu    20   0 7824576   6.4g   6464 S   7.9  20.7   0:03.72 deptran_server
+  57181 ubuntu    20   0 7824576   6.4g   6464 S   7.9  20.7   0:03.55 deptran_server
+  57182 ubuntu    20   0 7824576   6.4g   6464 S   7.9  20.7   0:03.61 deptran_server
+  57186 ubuntu    20   0 7824576   6.4g   6464 S   7.9  20.7   0:03.58 deptran_server
+  57187 ubuntu    20   0 7824576   6.4g   6464 S   7.9  20.7   0:03.53 deptran_server
+  57188 ubuntu    20   0 7824576   6.4g   6464 S   7.9  20.7   0:03.55 deptran_server
+  57179 ubuntu    20   0 7824576   6.4g   6464 R   6.9  20.7   0:03.50 deptran_server
+  57180 ubuntu    20   0 7824576   6.4g   6464 S   6.9  20.7   0:03.55 deptran_server
+  57183 ubuntu    20   0 7824576   6.4g   6464 S   6.9  20.7   0:03.54 deptran_server
+  57184 ubuntu    20   0 7824576   6.4g   6464 S   6.9  20.7   0:03.56 deptran_server
+  57189 ubuntu    20   0 7824576   6.4g   6464 S   6.9  20.7   0:03.53 deptran_server
+  57190 ubuntu    20   0 7824576   6.4g   6464 S   6.9  20.7   0:03.28 deptran_server
+  57106 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:27 up  5:05,  0 users,  load average: 5.00, 4.45, 3.14
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.0 us,  8.4 sy,  0.0 ni, 74.4 id,  0.0 wa,  0.0 hi,  3.0 si,  7.3 st
+MiB Mem :  31824.5 total,  22451.0 free,   7594.3 used,   1779.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23820.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.4g   6464 S  18.0  20.7   0:07.96 deptran_server
+  57183 ubuntu    20   0 7824576   6.4g   6464 S   9.0  20.7   0:03.63 deptran_server
+  57177 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.80 deptran_server
+  57179 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.58 deptran_server
+  57180 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.63 deptran_server
+  57181 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.63 deptran_server
+  57184 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.64 deptran_server
+  57186 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.66 deptran_server
+  57187 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.61 deptran_server
+  57188 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.63 deptran_server
+  57189 ubuntu    20   0 7824576   6.4g   6464 R   8.0  20.7   0:03.61 deptran_server
+  57178 ubuntu    20   0 7824576   6.4g   6464 R   7.0  20.7   0:03.67 deptran_server
+  57182 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.68 deptran_server
+  57190 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.35 deptran_server
+  57106 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:28 up  5:05,  0 users,  load average: 5.00, 4.45, 3.14
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.9 us, 10.9 sy,  0.0 ni, 73.8 id,  0.0 wa,  0.0 hi,  2.7 si,  5.6 st
+MiB Mem :  31824.5 total,  22436.4 free,   7597.4 used,   1790.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23817.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.4g   6464 S  17.0  20.7   0:08.13 deptran_server
+  57183 ubuntu    20   0 7824576   6.4g   6464 S   9.0  20.7   0:03.72 deptran_server
+  57177 ubuntu    20   0 7824576   6.4g   6464 R   8.0  20.7   0:03.88 deptran_server
+  57179 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.66 deptran_server
+  57180 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.71 deptran_server
+  57181 ubuntu    20   0 7824576   6.4g   6464 R   8.0  20.7   0:03.71 deptran_server
+  57184 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.72 deptran_server
+  57186 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.74 deptran_server
+  57187 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.69 deptran_server
+  57178 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.74 deptran_server
+  57182 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.75 deptran_server
+  57188 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.70 deptran_server
+  57189 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.68 deptran_server
+  57190 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.42 deptran_server
+  57106 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:29 up  5:05,  0 users,  load average: 5.00, 4.45, 3.14
+Threads:  16 total,   4 running,  12 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.9 us,  7.1 sy,  0.0 ni, 74.4 id,  0.0 wa,  0.0 hi,  2.4 si, 11.2 st
+MiB Mem :  31824.5 total,  22436.4 free,   7597.4 used,   1790.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23817.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.4g   6464 R  14.0  20.7   0:08.27 deptran_server
+  57178 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.81 deptran_server
+  57180 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.78 deptran_server
+  57184 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.79 deptran_server
+  57188 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.77 deptran_server
+  57177 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:03.94 deptran_server
+  57181 ubuntu    20   0 7824576   6.4g   6464 R   6.0  20.7   0:03.77 deptran_server
+  57182 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:03.81 deptran_server
+  57183 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:03.78 deptran_server
+  57186 ubuntu    20   0 7824576   6.4g   6464 R   6.0  20.7   0:03.80 deptran_server
+  57187 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:03.75 deptran_server
+  57189 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:03.74 deptran_server
+  57190 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:03.48 deptran_server
+  57179 ubuntu    20   0 7824576   6.4g   6464 R   5.0  20.7   0:03.71 deptran_server
+  57106 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:30 up  5:05,  0 users,  load average: 5.00, 4.45, 3.14
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.8 us,  6.2 sy,  0.0 ni, 75.0 id,  0.0 wa,  0.0 hi,  1.5 si, 12.5 st
+MiB Mem :  31824.5 total,  22436.4 free,   7597.4 used,   1790.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23817.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.4g   6464 R  11.9  20.7   0:08.39 deptran_server
+  57177 ubuntu    20   0 7824576   6.4g   6464 R   5.9  20.7   0:04.00 deptran_server
+  57178 ubuntu    20   0 7824576   6.4g   6464 S   5.9  20.7   0:03.87 deptran_server
+  57179 ubuntu    20   0 7824576   6.4g   6464 S   5.9  20.7   0:03.77 deptran_server
+  57180 ubuntu    20   0 7824576   6.4g   6464 S   5.9  20.7   0:03.84 deptran_server
+  57182 ubuntu    20   0 7824576   6.4g   6464 S   5.9  20.7   0:03.87 deptran_server
+  57184 ubuntu    20   0 7824576   6.4g   6464 S   5.9  20.7   0:03.85 deptran_server
+  57186 ubuntu    20   0 7824576   6.4g   6464 S   5.9  20.7   0:03.86 deptran_server
+  57189 ubuntu    20   0 7824576   6.4g   6464 S   5.9  20.7   0:03.80 deptran_server
+  57190 ubuntu    20   0 7824576   6.4g   6464 R   5.9  20.7   0:03.54 deptran_server
+  57181 ubuntu    20   0 7824576   6.4g   6464 S   5.0  20.7   0:03.82 deptran_server
+  57183 ubuntu    20   0 7824576   6.4g   6464 S   5.0  20.7   0:03.83 deptran_server
+  57187 ubuntu    20   0 7824576   6.4g   6464 S   5.0  20.7   0:03.80 deptran_server
+  57188 ubuntu    20   0 7824576   6.4g   6464 S   5.0  20.7   0:03.82 deptran_server
+  57106 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:31 up  5:05,  0 users,  load average: 5.00, 4.45, 3.14
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.3 us,  7.8 sy,  0.0 ni, 73.3 id,  0.0 wa,  0.0 hi,  2.5 si, 11.1 st
+MiB Mem :  31824.5 total,  22425.1 free,   7600.6 used,   1798.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23814.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.4g   6464 R  15.0  20.7   0:08.54 deptran_server
+  57182 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.95 deptran_server
+  57179 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.84 deptran_server
+  57180 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.91 deptran_server
+  57181 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.89 deptran_server
+  57183 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.90 deptran_server
+  57187 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.87 deptran_server
+  57188 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.89 deptran_server
+  57189 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.87 deptran_server
+  57178 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:03.93 deptran_server
+  57184 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:03.91 deptran_server
+  57186 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:03.92 deptran_server
+  57190 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:03.60 deptran_server
+  57177 ubuntu    20   0 7824576   6.4g   6464 S   5.0  20.7   0:04.05 deptran_server
+  57106 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:32 up  5:05,  0 users,  load average: 4.76, 4.41, 3.13
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.6 us, 10.1 sy,  0.0 ni, 73.5 id,  0.0 wa,  0.0 hi,  3.3 si,  6.5 st
+MiB Mem :  31824.5 total,  22425.1 free,   7600.6 used,   1798.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23814.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.4g   6464 S  18.0  20.7   0:08.72 deptran_server
+  57177 ubuntu    20   0 7824576   6.4g   6464 S   9.0  20.7   0:04.14 deptran_server
+  57178 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:04.01 deptran_server
+  57179 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.92 deptran_server
+  57182 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:04.03 deptran_server
+  57183 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.98 deptran_server
+  57184 ubuntu    20   0 7824576   6.4g   6464 R   8.0  20.7   0:03.99 deptran_server
+  57187 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.95 deptran_server
+  57189 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:03.95 deptran_server
+  57180 ubuntu    20   0 7824576   6.4g   6464 R   7.0  20.7   0:03.98 deptran_server
+  57181 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.96 deptran_server
+  57186 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.99 deptran_server
+  57188 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.96 deptran_server
+  57190 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.67 deptran_server
+  57106 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:33 up  5:05,  0 users,  load average: 4.76, 4.41, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.9 us,  7.2 sy,  0.0 ni, 75.0 id,  0.0 wa,  0.0 hi,  2.1 si, 10.9 st
+MiB Mem :  31824.5 total,  22425.1 free,   7600.6 used,   1798.9 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23814.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.4g   6464 S  13.0  20.7   0:08.85 deptran_server
+  57177 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:04.21 deptran_server
+  57178 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:04.07 deptran_server
+  57179 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:03.98 deptran_server
+  57180 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:04.04 deptran_server
+  57181 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:04.02 deptran_server
+  57182 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:04.09 deptran_server
+  57184 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:04.05 deptran_server
+  57186 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:04.05 deptran_server
+  57187 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:04.01 deptran_server
+  57188 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:04.02 deptran_server
+  57189 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:04.01 deptran_server
+  57183 ubuntu    20   0 7824576   6.4g   6464 R   5.0  20.7   0:04.03 deptran_server
+  57190 ubuntu    20   0 7824576   6.4g   6464 S   5.0  20.7   0:03.72 deptran_server
+  57106 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:34 up  5:05,  0 users,  load average: 4.76, 4.41, 3.13
+Threads:  16 total,   0 running,  16 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.4 us,  8.7 sy,  0.0 ni, 74.7 id,  0.0 wa,  0.0 hi,  2.0 si,  9.1 st
+MiB Mem :  31824.5 total,  22412.6 free,   7602.8 used,   1809.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23811.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.4g   6464 S  16.0  20.7   0:09.01 deptran_server
+  57183 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:04.11 deptran_server
+  57178 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:04.14 deptran_server
+  57180 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:04.11 deptran_server
+  57181 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:04.09 deptran_server
+  57182 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:04.16 deptran_server
+  57186 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:04.12 deptran_server
+  57188 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:04.09 deptran_server
+  57189 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:04.08 deptran_server
+  57177 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:04.27 deptran_server
+  57179 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:04.04 deptran_server
+  57184 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:04.11 deptran_server
+  57187 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:04.07 deptran_server
+  57190 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.7   0:03.78 deptran_server
+  57106 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:35 up  5:05,  0 users,  load average: 4.76, 4.41, 3.13
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.6 us,  8.9 sy,  0.0 ni, 64.4 id,  9.2 wa,  0.0 hi,  2.7 si,  9.2 st
+MiB Mem :  31824.5 total,  22412.6 free,   7602.8 used,   1809.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23811.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.4g   6464 R  13.9  20.7   0:09.15 deptran_server
+  57177 ubuntu    20   0 7824576   6.4g   6464 S   8.9  20.7   0:04.36 deptran_server
+  57179 ubuntu    20   0 7824576   6.4g   6464 S   6.9  20.7   0:04.11 deptran_server
+  57180 ubuntu    20   0 7824576   6.4g   6464 S   6.9  20.7   0:04.18 deptran_server
+  57182 ubuntu    20   0 7824576   6.4g   6464 R   6.9  20.7   0:04.23 deptran_server
+  57184 ubuntu    20   0 7824576   6.4g   6464 S   6.9  20.7   0:04.18 deptran_server
+  57186 ubuntu    20   0 7824576   6.4g   6464 S   6.9  20.7   0:04.19 deptran_server
+  57187 ubuntu    20   0 7824576   6.4g   6464 S   6.9  20.7   0:04.14 deptran_server
+  57189 ubuntu    20   0 7824576   6.4g   6464 S   6.9  20.7   0:04.15 deptran_server
+  57178 ubuntu    20   0 7824576   6.4g   6464 S   5.9  20.7   0:04.20 deptran_server
+  57181 ubuntu    20   0 7824576   6.4g   6464 S   5.9  20.7   0:04.15 deptran_server
+  57183 ubuntu    20   0 7824576   6.4g   6464 S   5.9  20.7   0:04.17 deptran_server
+  57188 ubuntu    20   0 7824576   6.4g   6464 S   5.9  20.7   0:04.15 deptran_server
+  57190 ubuntu    20   0 7824576   6.4g   6464 R   5.9  20.7   0:03.84 deptran_server
+  57106 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:36 up  5:05,  0 users,  load average: 4.76, 4.41, 3.13
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.7 us,  9.9 sy,  0.0 ni, 72.5 id,  1.1 wa,  0.0 hi,  2.6 si,  7.1 st
+MiB Mem :  31824.5 total,  22412.6 free,   7602.8 used,   1809.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23811.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.4g   6464 S  18.0  20.7   0:09.33 deptran_server
+  57187 ubuntu    20   0 7824576   6.4g   6464 R   9.0  20.7   0:04.23 deptran_server
+  57178 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:04.28 deptran_server
+  57181 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:04.23 deptran_server
+  57182 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:04.31 deptran_server
+  57183 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:04.25 deptran_server
+  57184 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:04.26 deptran_server
+  57188 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.7   0:04.23 deptran_server
+  57177 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:04.43 deptran_server
+  57179 ubuntu    20   0 7824576   6.4g   6464 R   7.0  20.7   0:04.18 deptran_server
+  57180 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:04.25 deptran_server
+  57186 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:04.26 deptran_server
+  57189 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:04.22 deptran_server
+  57190 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.7   0:03.91 deptran_server
+  57106 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.7   0:00.00 deptran_server
+
+top - 12:00:37 up  5:05,  0 users,  load average: 4.54, 4.37, 3.13
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  8.4 sy,  0.0 ni, 73.9 id,  0.0 wa,  0.0 hi,  2.4 si,  9.5 st
+MiB Mem :  31824.5 total,  22398.5 free,   7605.8 used,   1820.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23808.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.4g   6464 S  16.0  20.8   0:09.49 deptran_server
+  57179 ubuntu    20   0 7824576   6.4g   6464 S   9.0  20.8   0:04.27 deptran_server
+  57177 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.8   0:04.51 deptran_server
+  57178 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.8   0:04.36 deptran_server
+  57180 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.8   0:04.32 deptran_server
+  57181 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.8   0:04.30 deptran_server
+  57182 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.8   0:04.38 deptran_server
+  57183 ubuntu    20   0 7824576   6.4g   6464 R   7.0  20.8   0:04.32 deptran_server
+  57184 ubuntu    20   0 7824576   6.4g   6464 R   7.0  20.8   0:04.33 deptran_server
+  57188 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.8   0:04.30 deptran_server
+  57189 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.8   0:04.29 deptran_server
+  57186 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.8   0:04.32 deptran_server
+  57187 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.8   0:04.29 deptran_server
+  57190 ubuntu    20   0 7824576   6.4g   6464 S   6.0  20.8   0:03.97 deptran_server
+  57106 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:38 up  5:05,  0 users,  load average: 4.54, 4.37, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.2 us, 10.1 sy,  0.0 ni, 74.5 id,  0.0 wa,  0.0 hi,  2.4 si,  5.8 st
+MiB Mem :  31824.5 total,  22398.5 free,   7605.8 used,   1820.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23808.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.4g   6464 R  17.0  20.8   0:09.66 deptran_server
+  57184 ubuntu    20   0 7824576   6.4g   6464 S   9.0  20.8   0:04.42 deptran_server
+  57186 ubuntu    20   0 7824576   6.4g   6464 S   9.0  20.8   0:04.41 deptran_server
+  57177 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.8   0:04.59 deptran_server
+  57180 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.8   0:04.40 deptran_server
+  57182 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.8   0:04.46 deptran_server
+  57187 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.8   0:04.37 deptran_server
+  57188 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.8   0:04.38 deptran_server
+  57189 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.8   0:04.37 deptran_server
+  57190 ubuntu    20   0 7824576   6.4g   6464 S   8.0  20.8   0:04.05 deptran_server
+  57178 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.8   0:04.43 deptran_server
+  57179 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.8   0:04.34 deptran_server
+  57181 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.8   0:04.37 deptran_server
+  57183 ubuntu    20   0 7824576   6.4g   6464 S   7.0  20.8   0:04.39 deptran_server
+  57106 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.4g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:39 up  5:05,  0 users,  load average: 4.54, 4.37, 3.13
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.7 us,  9.3 sy,  0.0 ni, 74.6 id,  0.0 wa,  0.0 hi,  2.5 si,  7.9 st
+MiB Mem :  31824.5 total,  22398.5 free,   7605.8 used,   1820.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23808.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 R  16.0  20.8   0:09.82 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 R   9.0  20.8   0:04.55 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.51 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.47 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.50 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 R   7.0  20.8   0:04.66 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.41 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.47 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.44 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.44 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.45 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.47 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.43 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:04.10 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:40 up  5:05,  0 users,  load average: 4.54, 4.37, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.2 us,  8.8 sy,  0.0 ni, 73.9 id,  0.0 wa,  0.0 hi,  1.9 si,  9.2 st
+MiB Mem :  31824.5 total,  22385.5 free,   7608.7 used,   1830.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23805.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 S  14.9  20.8   0:09.97 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   7.9  20.8   0:04.55 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 S   7.9  20.8   0:04.52 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 S   7.9  20.8   0:04.51 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:04.73 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:04.58 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:04.62 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:04.54 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:04.51 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:04.17 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 S   5.9  20.8   0:04.47 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   5.9  20.8   0:04.53 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 S   5.9  20.8   0:04.56 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 R   5.9  20.8   0:04.51 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:41 up  5:05,  0 users,  load average: 4.54, 4.37, 3.13
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.2 us,  5.8 sy,  0.0 ni, 72.4 id,  1.0 wa,  0.0 hi,  1.9 si, 15.7 st
+MiB Mem :  31824.5 total,  22385.5 free,   7608.7 used,   1830.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23805.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 S  12.0  20.8   0:10.09 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 R   7.0  20.8   0:04.24 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.79 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 R   6.0  20.8   0:04.64 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.53 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.59 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.60 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.57 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.57 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.57 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:04.60 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:04.57 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:04.67 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:04.61 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:42 up  5:05,  0 users,  load average: 4.33, 4.33, 3.12
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.0 us,  8.2 sy,  0.0 ni, 73.7 id,  0.0 wa,  0.0 hi,  2.2 si, 10.9 st
+MiB Mem :  31824.5 total,  22385.5 free,   7608.7 used,   1830.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23805.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 S  15.0  20.8   0:10.24 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.86 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.60 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.67 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.74 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.31 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.70 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.63 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.65 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.67 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 R   6.0  20.8   0:04.63 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.63 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.63 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:04.65 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:43 up  5:05,  0 users,  load average: 4.33, 4.33, 3.12
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.8 us, 11.1 sy,  0.0 ni, 73.7 id,  0.0 wa,  0.0 hi,  2.8 si,  5.7 st
+MiB Mem :  31824.5 total,  22374.7 free,   7610.7 used,   1839.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23803.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 S  18.0  20.8   0:10.42 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 S   9.0  20.8   0:04.76 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.94 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.78 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.68 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.75 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.71 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.82 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.73 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.73 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.71 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.71 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 R   8.0  20.8   0:04.71 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 R   7.0  20.8   0:04.38 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:44 up  5:05,  0 users,  load average: 4.33, 4.33, 3.12
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.6 us,  8.7 sy,  0.0 ni, 75.4 id,  0.0 wa,  0.0 hi,  2.4 si,  7.9 st
+MiB Mem :  31824.5 total,  22374.7 free,   7610.7 used,   1839.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23803.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 S  15.8  20.8   0:10.58 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   7.9  20.8   0:04.83 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 S   7.9  20.8   0:04.81 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:05.01 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:04.85 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:04.75 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:04.78 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:04.89 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:04.80 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:04.83 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:04.78 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 R   6.9  20.8   0:04.78 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 S   5.9  20.8   0:04.77 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 S   5.9  20.8   0:04.44 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:45 up  5:05,  0 users,  load average: 4.33, 4.33, 3.12
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.0 us, 10.5 sy,  0.0 ni, 73.6 id,  0.1 wa,  0.0 hi,  2.3 si,  6.5 st
+MiB Mem :  31824.5 total,  22374.7 free,   7610.7 used,   1839.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23803.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 S  18.0  20.8   0:10.76 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 S   9.0  20.8   0:04.87 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:05.09 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 R   8.0  20.8   0:04.93 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.97 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.91 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.89 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.85 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.86 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.86 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.82 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.90 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.87 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.51 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:46 up  5:05,  0 users,  load average: 4.33, 4.33, 3.12
+Threads:  16 total,   4 running,  12 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.8 us,  9.4 sy,  0.0 ni, 73.6 id,  0.0 wa,  0.0 hi,  2.6 si,  8.5 st
+MiB Mem :  31824.5 total,  22361.9 free,   7613.2 used,   1849.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23800.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 R  17.0  20.8   0:10.93 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.90 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:05.05 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:04.95 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.16 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.00 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.97 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 R   7.0  20.8   0:04.98 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 R   7.0  20.8   0:04.96 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.92 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.93 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 R   7.0  20.8   0:04.93 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.93 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.57 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:47 up  5:05,  0 users,  load average: 4.31, 4.33, 3.13
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.8 us,  8.4 sy,  0.0 ni, 73.3 id,  0.0 wa,  0.0 hi,  2.1 si, 11.5 st
+MiB Mem :  31824.5 total,  22361.9 free,   7613.2 used,   1849.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23800.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 S  14.0  20.8   0:11.07 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:05.24 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.04 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.00 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.12 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.03 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.99 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 R   6.0  20.8   0:05.06 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.96 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:05.01 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:05.04 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 R   6.0  20.8   0:04.99 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.99 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:04.63 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:48 up  5:05,  0 users,  load average: 4.31, 4.33, 3.13
+Threads:  16 total,   5 running,  11 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.5 us, 10.5 sy,  0.0 ni, 73.1 id,  0.0 wa,  0.0 hi,  2.7 si,  7.3 st
+MiB Mem :  31824.5 total,  22361.9 free,   7613.2 used,   1849.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23800.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 S  18.0  20.8   0:11.25 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:05.14 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 R   8.0  20.8   0:05.04 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:05.12 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:05.08 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:05.09 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:05.07 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 R   7.0  20.8   0:05.31 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.19 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.11 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 R   7.0  20.8   0:05.10 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 R   7.0  20.8   0:05.06 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 R   7.0  20.8   0:05.06 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.70 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:49 up  5:05,  0 users,  load average: 4.31, 4.33, 3.13
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.2 us,  8.6 sy,  0.0 ni, 74.7 id,  0.0 wa,  0.0 hi,  2.2 si, 10.2 st
+MiB Mem :  31824.5 total,  22349.8 free,   7616.4 used,   1858.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23797.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 R  13.9  20.8   0:11.39 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 S   7.9  20.8   0:05.19 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:05.38 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:05.21 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:05.11 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:05.26 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:05.17 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 R   6.9  20.8   0:05.13 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:05.13 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:04.77 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   5.9  20.8   0:05.18 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   5.9  20.8   0:05.15 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 R   5.9  20.8   0:05.13 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:05.13 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:50 up  5:05,  0 users,  load average: 4.31, 4.33, 3.13
+Threads:  16 total,   0 running,  16 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.2 us,  7.0 sy,  0.0 ni, 75.2 id,  0.0 wa,  0.0 hi,  1.2 si, 13.4 st
+MiB Mem :  31824.5 total,  22349.8 free,   7616.4 used,   1858.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23797.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 S  10.0  20.8   0:11.49 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:05.44 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:05.24 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:05.23 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:05.19 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:05.26 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:05.16 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:05.18 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:05.31 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:05.20 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:05.18 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:05.18 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:04.82 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 S   4.0  20.8   0:05.23 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:51 up  5:05,  0 users,  load average: 4.31, 4.33, 3.13
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.6 us,  9.4 sy,  0.0 ni, 72.9 id,  0.0 wa,  0.0 hi,  3.0 si,  9.2 st
+MiB Mem :  31824.5 total,  22349.8 free,   7616.4 used,   1858.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23797.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 S  16.0  20.8   0:11.65 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:05.52 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:05.26 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:05.39 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 R   8.0  20.8   0:05.31 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:05.26 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:05.26 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.33 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.23 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.31 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.27 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.30 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 R   7.0  20.8   0:04.89 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:05.25 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:52 up  5:05,  0 users,  load average: 4.20, 4.31, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.5 us,  8.3 sy,  0.0 ni, 75.1 id,  0.0 wa,  0.0 hi,  2.5 si,  9.6 st
+MiB Mem :  31824.5 total,  22340.0 free,   7617.9 used,   1866.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23795.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 S  15.0  20.8   0:11.80 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.59 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.30 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.38 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.34 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.38 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.37 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.32 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:04.96 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:05.39 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 R   6.0  20.8   0:05.32 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:05.45 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:05.32 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 S   5.0  20.8   0:05.31 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:53 up  5:05,  0 users,  load average: 4.20, 4.31, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.5 us,  9.2 sy,  0.0 ni, 73.6 id,  0.0 wa,  0.0 hi,  3.1 si,  7.6 st
+MiB Mem :  31824.5 total,  22340.0 free,   7617.9 used,   1866.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23795.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 S  16.0  20.8   0:11.96 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 S   9.0  20.8   0:05.40 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 R   8.0  20.8   0:05.40 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 S   8.0  20.8   0:05.40 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.46 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.37 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.45 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.52 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.41 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.45 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.44 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.39 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 S   7.0  20.8   0:05.03 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 S   6.0  20.8   0:05.65 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:54 up  5:05,  0 users,  load average: 4.20, 4.31, 3.13
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.0 us, 11.2 sy,  0.0 ni, 73.1 id,  0.0 wa,  0.0 hi,  3.4 si,  5.3 st
+MiB Mem :  31824.5 total,  22340.0 free,   7617.9 used,   1866.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23795.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7824576   6.5g   6464 R  16.8  20.8   0:12.13 deptran_server
+  57177 ubuntu    20   0 7824576   6.5g   6464 S   8.9  20.8   0:05.74 deptran_server
+  57183 ubuntu    20   0 7824576   6.5g   6464 S   8.9  20.8   0:05.50 deptran_server
+  57186 ubuntu    20   0 7824576   6.5g   6464 R   8.9  20.8   0:05.53 deptran_server
+  57178 ubuntu    20   0 7824576   6.5g   6464 S   7.9  20.8   0:05.54 deptran_server
+  57179 ubuntu    20   0 7824576   6.5g   6464 S   7.9  20.8   0:05.45 deptran_server
+  57180 ubuntu    20   0 7824576   6.5g   6464 S   7.9  20.8   0:05.53 deptran_server
+  57181 ubuntu    20   0 7824576   6.5g   6464 S   7.9  20.8   0:05.48 deptran_server
+  57182 ubuntu    20   0 7824576   6.5g   6464 S   7.9  20.8   0:05.60 deptran_server
+  57184 ubuntu    20   0 7824576   6.5g   6464 S   7.9  20.8   0:05.53 deptran_server
+  57187 ubuntu    20   0 7824576   6.5g   6464 S   7.9  20.8   0:05.48 deptran_server
+  57189 ubuntu    20   0 7824576   6.5g   6464 S   7.9  20.8   0:05.47 deptran_server
+  57188 ubuntu    20   0 7824576   6.5g   6464 S   6.9  20.8   0:05.47 deptran_server
+  57190 ubuntu    20   0 7824576   6.5g   6464 S   5.9  20.8   0:05.09 deptran_server
+  57106 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7824576   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:55 up  5:05,  0 users,  load average: 4.20, 4.31, 3.13
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.7 us,  9.0 sy,  0.0 ni, 73.3 id,  0.0 wa,  0.0 hi,  2.4 si,  8.5 st
+MiB Mem :  31824.5 total,  22325.9 free,   7620.8 used,   1877.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23792.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 R  17.0  20.8   0:12.30 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:05.62 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:05.53 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:05.56 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:05.68 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:05.55 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:05.55 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.81 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.60 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.57 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 R   7.0  20.8   0:05.60 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.60 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.55 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:05.15 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:56 up  5:05,  0 users,  load average: 4.20, 4.31, 3.13
+Threads:  16 total,   6 running,  10 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  9.6 sy,  0.0 ni, 73.4 id,  0.0 wa,  0.0 hi,  2.5 si,  8.6 st
+MiB Mem :  31824.5 total,  22325.9 free,   7620.8 used,   1877.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23792.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 R  16.0  20.8   0:12.46 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:05.89 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 R   8.0  20.8   0:05.70 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 R   8.0  20.8   0:05.68 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:05.65 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 R   8.0  20.8   0:05.63 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.60 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 R   7.0  20.8   0:05.75 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.67 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.22 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:05.62 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 R   6.0  20.8   0:05.66 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:05.61 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:05.61 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:57 up  5:05,  0 users,  load average: 4.18, 4.30, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.3 us, 10.2 sy,  0.0 ni, 72.9 id,  0.0 wa,  0.0 hi,  2.4 si,  8.2 st
+MiB Mem :  31824.5 total,  22325.9 free,   7620.8 used,   1877.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23792.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 S  16.8  20.8   0:12.63 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   8.9  20.8   0:05.75 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   8.9  20.8   0:05.70 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 R   7.9  20.8   0:05.78 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   7.9  20.8   0:05.70 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   7.9  20.8   0:05.83 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   7.9  20.8   0:05.69 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:05.96 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:05.67 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:05.75 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:05.72 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:05.74 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:05.70 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:05.29 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:58 up  5:05,  0 users,  load average: 4.18, 4.30, 3.13
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.7 us, 11.3 sy,  0.0 ni, 74.0 id,  0.0 wa,  0.0 hi,  2.9 si,  5.2 st
+MiB Mem :  31824.5 total,  22313.1 free,   7622.9 used,   1888.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23790.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 S  18.0  20.8   0:12.81 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 R   9.0  20.8   0:05.76 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 R   9.0  20.8   0:05.84 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.04 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:05.78 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:05.91 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 R   8.0  20.8   0:05.80 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:05.78 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:05.78 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.85 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.81 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.82 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.76 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:05.35 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:00:59 up  5:05,  0 users,  load average: 4.18, 4.30, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.5 us, 10.3 sy,  0.0 ni, 73.8 id,  0.0 wa,  0.0 hi,  2.2 si,  8.2 st
+MiB Mem :  31824.5 total,  22313.1 free,   7622.9 used,   1888.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23790.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 R  15.0  20.8   0:12.96 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:05.86 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.11 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.92 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.98 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.87 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.88 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.89 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.85 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.83 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.42 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:05.82 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:05.90 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:05.84 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:00 up  5:05,  0 users,  load average: 4.18, 4.30, 3.13
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.2 us,  8.1 sy,  0.0 ni, 73.4 id,  0.0 wa,  0.0 hi,  2.5 si,  9.9 st
+MiB Mem :  31824.5 total,  22313.1 free,   7622.9 used,   1888.5 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23790.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 S  16.0  20.8   0:13.12 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.19 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.00 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:05.90 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:05.97 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.97 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 R   7.0  20.8   0:06.05 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.94 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.95 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.92 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.90 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.91 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.49 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:05.92 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:01 up  5:05,  0 users,  load average: 4.18, 4.30, 3.13
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.9 us,  6.4 sy,  0.0 ni, 73.9 id,  0.0 wa,  0.0 hi,  1.5 si, 13.4 st
+MiB Mem :  31824.5 total,  22302.6 free,   7624.6 used,   1897.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23788.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 S  12.0  20.8   0:13.24 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.04 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.99 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.02 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.98 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.25 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 R   6.0  20.8   0:06.06 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:05.96 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.11 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:05.98 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 R   6.0  20.8   0:05.55 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   5.0  20.8   0:05.99 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   5.0  20.8   0:06.02 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   5.0  20.8   0:05.95 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:02 up  5:06,  0 users,  load average: 4.01, 4.26, 3.12
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.9 us,  7.5 sy,  0.0 ni, 74.0 id,  0.0 wa,  0.0 hi,  2.6 si, 10.9 st
+MiB Mem :  31824.5 total,  22302.6 free,   7624.6 used,   1897.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23788.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 S  14.9  20.8   0:13.39 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   7.9  20.8   0:06.33 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   7.9  20.8   0:06.10 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 R   6.9  20.8   0:06.13 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.06 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.05 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.02 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 R   6.9  20.8   0:06.05 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   5.9  20.8   0:06.02 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   5.9  20.8   0:06.10 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   5.9  20.8   0:06.05 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   5.9  20.8   0:06.17 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   5.9  20.8   0:06.08 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   5.9  20.8   0:05.61 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:03 up  5:06,  0 users,  load average: 4.01, 4.26, 3.12
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.6 us,  9.8 sy,  0.0 ni, 73.6 id,  0.0 wa,  0.0 hi,  2.3 si,  7.8 st
+MiB Mem :  31824.5 total,  22302.6 free,   7624.6 used,   1897.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23788.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 R  15.0  20.8   0:13.54 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.10 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.18 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.14 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.16 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.12 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.24 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.17 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.09 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.39 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.19 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.11 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.11 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:05.67 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:04 up  5:06,  0 users,  load average: 4.01, 4.26, 3.12
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.7 us, 10.5 sy,  0.0 ni, 73.1 id,  0.0 wa,  0.0 hi,  2.6 si,  7.1 st
+MiB Mem :  31824.5 total,  22290.3 free,   7627.0 used,   1907.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23786.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 S  17.0  20.8   0:13.71 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 R   8.0  20.8   0:06.47 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.27 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 R   8.0  20.8   0:06.26 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.32 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.19 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.17 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.19 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.21 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.23 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.24 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.16 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.18 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.74 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:05 up  5:06,  0 users,  load average: 4.01, 4.26, 3.12
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.1 us,  9.3 sy,  0.0 ni, 74.4 id,  0.0 wa,  0.0 hi,  2.6 si,  7.6 st
+MiB Mem :  31824.5 total,  22290.3 free,   7627.0 used,   1907.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23786.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 S  17.0  20.8   0:13.88 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 R   8.0  20.8   0:06.25 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 R   8.0  20.8   0:06.24 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.54 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.26 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.39 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.28 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.30 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.31 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 R   7.0  20.8   0:06.26 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.25 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:05.81 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.33 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.32 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:06 up  5:06,  0 users,  load average: 4.01, 4.26, 3.12
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.4 us,  6.1 sy,  0.0 ni, 73.5 id,  0.0 wa,  0.0 hi,  2.0 si, 14.0 st
+MiB Mem :  31824.5 total,  22290.3 free,   7627.0 used,   1907.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23786.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 S  13.0  20.8   0:14.01 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.61 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.39 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.37 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.38 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.32 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.39 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.31 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.32 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.45 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 R   6.0  20.8   0:06.34 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.32 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.30 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 R   6.0  20.8   0:05.87 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:07 up  5:06,  0 users,  load average: 4.17, 4.29, 3.14
+Threads:  16 total,   0 running,  16 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.5 us,  8.0 sy,  0.0 ni, 73.1 id,  0.0 wa,  0.0 hi,  2.5 si, 10.8 st
+MiB Mem :  31824.5 total,  22278.9 free,   7629.3 used,   1916.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23783.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 S  14.9  20.8   0:14.16 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   7.9  20.8   0:06.40 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.46 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.38 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.52 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.41 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.44 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.39 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.37 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.39 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   5.9  20.8   0:06.67 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   5.9  20.8   0:06.45 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   5.9  20.8   0:06.44 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   5.9  20.8   0:05.93 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:08 up  5:06,  0 users,  load average: 4.17, 4.29, 3.14
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.2 us, 10.7 sy,  0.0 ni, 74.3 id,  0.0 wa,  0.0 hi,  2.6 si,  5.1 st
+MiB Mem :  31824.5 total,  22278.9 free,   7629.3 used,   1916.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23783.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 S  17.0  20.8   0:14.33 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   9.0  20.8   0:06.61 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.75 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.54 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.46 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.48 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 R   8.0  20.8   0:06.49 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.52 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.52 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.47 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.45 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.01 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 R   7.0  20.8   0:06.52 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.46 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:09 up  5:06,  0 users,  load average: 4.17, 4.29, 3.14
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.8 us,  9.3 sy,  0.0 ni, 74.8 id,  0.0 wa,  0.0 hi,  2.2 si,  7.9 st
+MiB Mem :  31824.5 total,  22278.9 free,   7629.3 used,   1916.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23783.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 S  16.0  20.8   0:14.49 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.62 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.60 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 R   8.0  20.8   0:06.56 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.53 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.54 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.82 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.53 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 R   7.0  20.8   0:06.68 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.56 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.59 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.59 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.54 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 R   5.0  20.8   0:06.06 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:10 up  5:06,  0 users,  load average: 4.17, 4.29, 3.14
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.9 us,  9.2 sy,  0.0 ni, 73.0 id,  0.0 wa,  0.0 hi,  2.9 si,  8.1 st
+MiB Mem :  31824.5 total,  22263.4 free,   7633.7 used,   1927.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23779.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 S  16.0  20.8   0:14.65 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.90 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.76 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.69 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.60 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.67 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 R   7.0  20.8   0:06.63 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.63 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.66 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 R   7.0  20.8   0:06.66 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 R   7.0  20.8   0:06.60 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.61 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.13 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.60 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:11 up  5:06,  0 users,  load average: 4.17, 4.29, 3.14
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.5 us,  7.7 sy,  0.0 ni, 73.2 id,  0.0 wa,  0.0 hi,  2.1 si, 10.4 st
+MiB Mem :  31824.5 total,  22263.4 free,   7633.7 used,   1927.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23779.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 S  15.0  20.8   0:14.80 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.98 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.74 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.76 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.67 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.74 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.83 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.70 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.73 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.67 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.68 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.69 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   6.0  20.8   0:06.66 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 R   6.0  20.8   0:06.19 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:12 up  5:06,  0 users,  load average: 4.32, 4.32, 3.16
+Threads:  16 total,   0 running,  16 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.3 us,  8.8 sy,  0.0 ni, 67.7 id,  5.1 wa,  0.0 hi,  2.4 si, 10.7 st
+MiB Mem :  31824.5 total,  22263.4 free,   7633.7 used,   1927.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23779.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 S  15.8  20.8   0:14.96 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   7.9  20.8   0:06.82 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:07.05 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.83 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.74 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.76 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.90 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.77 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.80 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.74 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.73 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   6.9  20.8   0:06.26 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   5.9  20.8   0:06.80 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   5.9  20.8   0:06.74 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:13 up  5:06,  0 users,  load average: 4.32, 4.32, 3.16
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.6 us, 11.7 sy,  0.0 ni, 72.8 id,  0.0 wa,  0.0 hi,  2.6 si,  5.3 st
+MiB Mem :  31824.5 total,  22251.9 free,   7635.2 used,   1937.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23777.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 R  17.0  20.8   0:15.13 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   9.0  20.8   0:07.14 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   9.0  20.8   0:06.92 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   9.0  20.8   0:06.99 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   9.0  20.8   0:06.89 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 S   9.0  20.8   0:06.82 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 R   8.0  20.8   0:06.82 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.90 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.85 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 R   8.0  20.8   0:06.88 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.82 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.82 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.34 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.83 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:14 up  5:06,  0 users,  load average: 4.32, 4.32, 3.16
+Threads:  16 total,   4 running,  12 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.6 us, 10.4 sy,  0.0 ni, 73.2 id,  0.0 wa,  0.0 hi,  2.9 si,  7.0 st
+MiB Mem :  31824.5 total,  22251.9 free,   7635.2 used,   1937.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23777.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890112   6.5g   6464 S  17.0  20.8   0:15.30 deptran_server
+  57181 ubuntu    20   0 7890112   6.5g   6464 S   9.0  20.8   0:06.92 deptran_server
+  57177 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:07.22 deptran_server
+  57178 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:07.00 deptran_server
+  57180 ubuntu    20   0 7890112   6.5g   6464 S   8.0  20.8   0:06.98 deptran_server
+  57183 ubuntu    20   0 7890112   6.5g   6464 R   8.0  20.8   0:06.93 deptran_server
+  57187 ubuntu    20   0 7890112   6.5g   6464 R   8.0  20.8   0:06.90 deptran_server
+  57189 ubuntu    20   0 7890112   6.5g   6464 R   8.0  20.8   0:06.90 deptran_server
+  57179 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.89 deptran_server
+  57182 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:07.06 deptran_server
+  57184 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.96 deptran_server
+  57186 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.95 deptran_server
+  57188 ubuntu    20   0 7890112   6.5g   6464 R   7.0  20.8   0:06.89 deptran_server
+  57190 ubuntu    20   0 7890112   6.5g   6464 S   7.0  20.8   0:06.41 deptran_server
+  57106 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890112   6.5g   6464 S   0.0  20.8   0:00.00 deptran_server
+
+top - 12:01:15 up  5:06,  0 users,  load average: 4.32, 4.32, 3.16
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.4 us,  9.7 sy,  0.0 ni, 73.8 id,  0.0 wa,  0.0 hi,  2.2 si,  7.9 st
+MiB Mem :  31824.5 total,  22251.9 free,   7635.2 used,   1937.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23777.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890448   6.5g   6464 S  16.0  20.9   0:15.46 deptran_server
+  57178 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.08 deptran_server
+  57179 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:06.97 deptran_server
+  57186 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.03 deptran_server
+  57189 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:06.98 deptran_server
+  57177 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.29 deptran_server
+  57180 ubuntu    20   0 7890448   6.5g   6464 R   7.0  20.9   0:07.05 deptran_server
+  57181 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:06.99 deptran_server
+  57182 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.13 deptran_server
+  57184 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.03 deptran_server
+  57187 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:06.97 deptran_server
+  57188 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:06.96 deptran_server
+  57183 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:06.99 deptran_server
+  57190 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:06.47 deptran_server
+  57106 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+
+top - 12:01:16 up  5:06,  0 users,  load average: 4.32, 4.32, 3.16
+Threads:  16 total,   0 running,  16 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.3 us,  7.0 sy,  0.0 ni, 74.4 id,  0.0 wa,  0.0 hi,  2.9 si, 11.4 st
+MiB Mem :  31824.5 total,  22238.8 free,   7638.6 used,   1947.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23774.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890448   6.5g   6464 S  13.0  20.9   0:15.59 deptran_server
+  57177 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.36 deptran_server
+  57181 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.06 deptran_server
+  57182 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.20 deptran_server
+  57183 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.06 deptran_server
+  57189 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.05 deptran_server
+  57178 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.14 deptran_server
+  57180 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.11 deptran_server
+  57184 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.09 deptran_server
+  57186 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.09 deptran_server
+  57187 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.03 deptran_server
+  57188 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.02 deptran_server
+  57190 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:06.53 deptran_server
+  57179 ubuntu    20   0 7890448   6.5g   6464 S   5.0  20.9   0:07.02 deptran_server
+  57106 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+
+top - 12:01:17 up  5:06,  0 users,  load average: 4.21, 4.30, 3.15
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.4 us, 10.4 sy,  0.0 ni, 73.8 id,  0.0 wa,  0.0 hi,  3.3 si,  5.1 st
+MiB Mem :  31824.5 total,  22238.8 free,   7638.6 used,   1947.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23774.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890448   6.5g   6464 S  18.0  20.9   0:15.77 deptran_server
+  57184 ubuntu    20   0 7890448   6.5g   6464 S   9.0  20.9   0:07.18 deptran_server
+  57177 ubuntu    20   0 7890448   6.5g   6464 R   8.0  20.9   0:07.44 deptran_server
+  57178 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.22 deptran_server
+  57179 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.10 deptran_server
+  57180 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.19 deptran_server
+  57181 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.14 deptran_server
+  57182 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.28 deptran_server
+  57183 ubuntu    20   0 7890448   6.5g   6464 R   8.0  20.9   0:07.14 deptran_server
+  57186 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.17 deptran_server
+  57187 ubuntu    20   0 7890448   6.5g   6464 R   8.0  20.9   0:07.11 deptran_server
+  57188 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.10 deptran_server
+  57189 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.13 deptran_server
+  57190 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:06.61 deptran_server
+  57106 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+
+top - 12:01:18 up  5:06,  0 users,  load average: 4.21, 4.30, 3.15
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.1 us, 11.5 sy,  0.0 ni, 72.9 id,  0.0 wa,  0.0 hi,  3.0 si,  6.5 st
+MiB Mem :  31824.5 total,  22238.8 free,   7638.6 used,   1947.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23774.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890448   6.5g   6464 S  17.8  20.9   0:15.95 deptran_server
+  57177 ubuntu    20   0 7890448   6.5g   6464 R   7.9  20.9   0:07.52 deptran_server
+  57178 ubuntu    20   0 7890448   6.5g   6464 S   7.9  20.9   0:07.30 deptran_server
+  57179 ubuntu    20   0 7890448   6.5g   6464 R   7.9  20.9   0:07.18 deptran_server
+  57182 ubuntu    20   0 7890448   6.5g   6464 S   7.9  20.9   0:07.36 deptran_server
+  57187 ubuntu    20   0 7890448   6.5g   6464 S   7.9  20.9   0:07.19 deptran_server
+  57189 ubuntu    20   0 7890448   6.5g   6464 S   7.9  20.9   0:07.21 deptran_server
+  57180 ubuntu    20   0 7890448   6.5g   6464 S   6.9  20.9   0:07.26 deptran_server
+  57183 ubuntu    20   0 7890448   6.5g   6464 S   6.9  20.9   0:07.21 deptran_server
+  57184 ubuntu    20   0 7890448   6.5g   6464 S   6.9  20.9   0:07.25 deptran_server
+  57186 ubuntu    20   0 7890448   6.5g   6464 S   6.9  20.9   0:07.24 deptran_server
+  57188 ubuntu    20   0 7890448   6.5g   6464 S   6.9  20.9   0:07.17 deptran_server
+  57181 ubuntu    20   0 7890448   6.5g   6464 S   5.9  20.9   0:07.20 deptran_server
+  57190 ubuntu    20   0 7890448   6.5g   6464 S   5.9  20.9   0:06.67 deptran_server
+  57106 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+
+top - 12:01:19 up  5:06,  0 users,  load average: 4.21, 4.30, 3.15
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.5 us,  9.0 sy,  0.0 ni, 73.7 id,  0.0 wa,  0.0 hi,  2.8 si,  9.0 st
+MiB Mem :  31824.5 total,  22225.3 free,   7641.3 used,   1958.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23771.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890448   6.5g   6464 S  15.0  20.9   0:16.10 deptran_server
+  57181 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.28 deptran_server
+  57183 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.29 deptran_server
+  57184 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.33 deptran_server
+  57186 ubuntu    20   0 7890448   6.5g   6464 R   8.0  20.9   0:07.32 deptran_server
+  57188 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.25 deptran_server
+  57178 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.37 deptran_server
+  57179 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.25 deptran_server
+  57180 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.33 deptran_server
+  57182 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.43 deptran_server
+  57187 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.26 deptran_server
+  57189 ubuntu    20   0 7890448   6.5g   6464 R   7.0  20.9   0:07.28 deptran_server
+  57177 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.58 deptran_server
+  57190 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:06.73 deptran_server
+  57106 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+
+top - 12:01:20 up  5:06,  0 users,  load average: 4.21, 4.30, 3.15
+Threads:  16 total,   2 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.8 us,  9.4 sy,  0.0 ni, 73.5 id,  0.0 wa,  0.0 hi,  2.8 si,  7.6 st
+MiB Mem :  31824.5 total,  22225.3 free,   7641.3 used,   1958.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23771.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890448   6.5g   6464 S  17.0  20.9   0:16.27 deptran_server
+  57188 ubuntu    20   0 7890448   6.5g   6464 S   9.0  20.9   0:07.34 deptran_server
+  57177 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.66 deptran_server
+  57178 ubuntu    20   0 7890448   6.5g   6464 R   8.0  20.9   0:07.45 deptran_server
+  57180 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.41 deptran_server
+  57182 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.51 deptran_server
+  57186 ubuntu    20   0 7890448   6.5g   6464 R   8.0  20.9   0:07.40 deptran_server
+  57187 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.34 deptran_server
+  57189 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.36 deptran_server
+  57181 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.35 deptran_server
+  57183 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.36 deptran_server
+  57184 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.40 deptran_server
+  57190 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:06.80 deptran_server
+  57179 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.31 deptran_server
+  57106 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+
+top - 12:01:21 up  5:06,  0 users,  load average: 4.21, 4.30, 3.15
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.9 us,  8.7 sy,  0.0 ni, 73.5 id,  0.0 wa,  0.0 hi,  2.3 si, 10.6 st
+MiB Mem :  31824.5 total,  22225.3 free,   7641.3 used,   1958.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23771.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890448   6.5g   6464 R  13.0  20.9   0:16.40 deptran_server
+  57177 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.73 deptran_server
+  57179 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.38 deptran_server
+  57180 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.48 deptran_server
+  57181 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.42 deptran_server
+  57182 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.58 deptran_server
+  57183 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.43 deptran_server
+  57186 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.47 deptran_server
+  57178 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.51 deptran_server
+  57184 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.46 deptran_server
+  57187 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.40 deptran_server
+  57188 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.40 deptran_server
+  57189 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.42 deptran_server
+  57190 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:06.86 deptran_server
+  57106 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+
+top - 12:01:22 up  5:06,  0 users,  load average: 3.87, 4.23, 3.14
+Threads:  16 total,   5 running,  11 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.3 us,  8.3 sy,  0.0 ni, 73.6 id,  0.0 wa,  0.0 hi,  2.6 si, 10.3 st
+MiB Mem :  31824.5 total,  22214.5 free,   7642.9 used,   1967.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23769.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890448   6.5g   6464 S  16.0  20.9   0:16.56 deptran_server
+  57180 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.55 deptran_server
+  57181 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.49 deptran_server
+  57182 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.65 deptran_server
+  57183 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.50 deptran_server
+  57184 ubuntu    20   0 7890448   6.5g   6464 R   7.0  20.9   0:07.53 deptran_server
+  57188 ubuntu    20   0 7890448   6.5g   6464 R   7.0  20.9   0:07.47 deptran_server
+  57190 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:06.93 deptran_server
+  57177 ubuntu    20   0 7890448   6.5g   6464 R   6.0  20.9   0:07.79 deptran_server
+  57178 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.57 deptran_server
+  57179 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.44 deptran_server
+  57186 ubuntu    20   0 7890448   6.5g   6464 R   6.0  20.9   0:07.53 deptran_server
+  57187 ubuntu    20   0 7890448   6.5g   6464 R   6.0  20.9   0:07.46 deptran_server
+  57189 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.48 deptran_server
+  57106 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+
+top - 12:01:23 up  5:06,  0 users,  load average: 3.87, 4.23, 3.14
+Threads:  16 total,   1 running,  15 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.2 us,  9.6 sy,  0.0 ni, 73.3 id,  0.0 wa,  0.0 hi,  2.9 si,  8.0 st
+MiB Mem :  31824.5 total,  22214.5 free,   7642.9 used,   1967.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23769.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890448   6.5g   6464 S  15.8  20.9   0:16.72 deptran_server
+  57177 ubuntu    20   0 7890448   6.5g   6464 S   7.9  20.9   0:07.87 deptran_server
+  57178 ubuntu    20   0 7890448   6.5g   6464 S   7.9  20.9   0:07.65 deptran_server
+  57179 ubuntu    20   0 7890448   6.5g   6464 R   7.9  20.9   0:07.52 deptran_server
+  57186 ubuntu    20   0 7890448   6.5g   6464 S   7.9  20.9   0:07.61 deptran_server
+  57188 ubuntu    20   0 7890448   6.5g   6464 S   7.9  20.9   0:07.55 deptran_server
+  57182 ubuntu    20   0 7890448   6.5g   6464 S   6.9  20.9   0:07.72 deptran_server
+  57183 ubuntu    20   0 7890448   6.5g   6464 S   6.9  20.9   0:07.57 deptran_server
+  57184 ubuntu    20   0 7890448   6.5g   6464 S   6.9  20.9   0:07.60 deptran_server
+  57187 ubuntu    20   0 7890448   6.5g   6464 S   6.9  20.9   0:07.53 deptran_server
+  57189 ubuntu    20   0 7890448   6.5g   6464 S   6.9  20.9   0:07.55 deptran_server
+  57190 ubuntu    20   0 7890448   6.5g   6464 S   6.9  20.9   0:07.00 deptran_server
+  57180 ubuntu    20   0 7890448   6.5g   6464 S   5.9  20.9   0:07.61 deptran_server
+  57181 ubuntu    20   0 7890448   6.5g   6464 S   5.9  20.9   0:07.55 deptran_server
+  57106 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+
+top - 12:01:24 up  5:06,  0 users,  load average: 3.87, 4.23, 3.14
+Threads:  16 total,   3 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.0 us,  9.4 sy,  0.0 ni, 72.8 id,  0.0 wa,  0.0 hi,  2.7 si,  7.1 st
+MiB Mem :  31824.5 total,  22214.5 free,   7642.9 used,   1967.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23769.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890448   6.5g   6464 R  17.0  20.9   0:16.89 deptran_server
+  57180 ubuntu    20   0 7890448   6.5g   6464 S   9.0  20.9   0:07.70 deptran_server
+  57187 ubuntu    20   0 7890448   6.5g   6464 S   9.0  20.9   0:07.62 deptran_server
+  57189 ubuntu    20   0 7890448   6.5g   6464 S   9.0  20.9   0:07.64 deptran_server
+  57177 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.95 deptran_server
+  57178 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.73 deptran_server
+  57179 ubuntu    20   0 7890448   6.5g   6464 R   8.0  20.9   0:07.60 deptran_server
+  57181 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.63 deptran_server
+  57182 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.80 deptran_server
+  57183 ubuntu    20   0 7890448   6.5g   6464 R   8.0  20.9   0:07.65 deptran_server
+  57184 ubuntu    20   0 7890448   6.5g   6464 S   8.0  20.9   0:07.68 deptran_server
+  57186 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.68 deptran_server
+  57188 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.62 deptran_server
+  57190 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.06 deptran_server
+  57106 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+
+top - 12:01:25 up  5:06,  0 users,  load average: 3.87, 4.23, 3.14
+Threads:  16 total,   6 running,  10 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.3 us,  8.0 sy,  0.0 ni, 73.8 id,  0.1 wa,  0.0 hi,  2.2 si, 10.6 st
+MiB Mem :  31824.5 total,  22202.6 free,   7645.1 used,   1976.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  23767.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  57185 ubuntu    20   0 7890448   6.5g   6464 S  14.0  20.9   0:17.03 deptran_server
+  57179 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.67 deptran_server
+  57182 ubuntu    20   0 7890448   6.5g   6464 S   7.0  20.9   0:07.87 deptran_server
+  57186 ubuntu    20   0 7890448   6.5g   6464 R   7.0  20.9   0:07.75 deptran_server
+  57188 ubuntu    20   0 7890448   6.5g   6464 R   7.0  20.9   0:07.69 deptran_server
+  57177 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:08.01 deptran_server
+  57178 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.79 deptran_server
+  57180 ubuntu    20   0 7890448   6.5g   6464 R   6.0  20.9   0:07.76 deptran_server
+  57181 ubuntu    20   0 7890448   6.5g   6464 R   6.0  20.9   0:07.69 deptran_server
+  57183 ubuntu    20   0 7890448   6.5g   6464 R   6.0  20.9   0:07.71 deptran_server
+  57184 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.74 deptran_server
+  57187 ubuntu    20   0 7890448   6.5g   6464 R   6.0  20.9   0:07.68 deptran_server
+  57189 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.70 deptran_server
+  57190 ubuntu    20   0 7890448   6.5g   6464 S   6.0  20.9   0:07.12 deptran_server
+  57106 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
+  57191 ubuntu    20   0 7890448   6.5g   6464 S   0.0  20.9   0:00.00 deptran_server
