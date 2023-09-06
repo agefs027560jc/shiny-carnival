@@ -1,6 +1,6 @@
 # shiny-carnival
 
-## cRPC toy stats
+## cRPC toy stats [stats_v2]
 
 *Values are in %CPU of server tid (System 1 min load avg)*
 
@@ -19,3 +19,4 @@
 | 15R | 13.74% (.51) | 20.82% (.64) | 24.73% (.66) | 28.18% (.71) | 29.39% (.63) | 28.91% (.66) |
 
 ### cRPC raft
+---
