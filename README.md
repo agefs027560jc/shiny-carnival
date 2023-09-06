@@ -3,6 +3,7 @@
 ## cRPC toy stats
 
 *Values are in %CPU of server tid (System 1 min load avg)*
+
 *C = N of clients; R = N of Replicas*
 
 ### cRPC toy
