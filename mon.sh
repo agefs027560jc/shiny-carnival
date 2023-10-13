@@ -25,12 +25,12 @@ while :; do
       calc="${calc}+${x}"
     done
     calc="${calc}))/${line}"
-
     python3 -c 'print("'$title' %cpu_utils : {0:.2f};".format('$calc'),end=" ")' >> stats/summary.log
+    
+    # todo
+    # perf stat -d -t $pid -o stats/.avg
+    # python3 -c 'print("'$title' ctx_switch : ",end=" ")' >> stats/summary.log
 
-    # echo -e "\n$title\n" > stats/$title.log
-    # perf stat -d -t $pid -o stats/$title.log
-    # cat stats/$title.log
     prevpid=$pid
   fi
 done
