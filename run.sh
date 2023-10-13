@@ -9,11 +9,11 @@ bash mon.sh &
 pid=$!
 echo $pid
 # change below values
-duration=10
-for nrun in {1..2}; do echo -e "#run_${nrun}" >> stats/summary.log;
-for cc in {1..1}; do
-for c in {1..1}; do
-for r in {2..2}; do
+duration=60
+for nrun in {1..3}; do echo -e "#run_${nrun}" >> stats/summary.log;
+for cc in {1,10}; do
+for c in {1,5,10,15,20}; do
+for r in {2,3,5,7}; do
 for v in {1,2}; do
 
   date
