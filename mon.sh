@@ -6,15 +6,16 @@ mkdir -p stats
 touch stats/.pid
 touch stats/summary.log
 
-# stable capture at 80% of duration
-n=80
+# get 1/3 of duration
+d=$(( $(grep "duration=" run.sh | cut -d = -f 2) / 3 ))
 while :; do
   sleep 2
   title=$(head -n 1 stats/.pid)
   pid=$(grep "tid of leader is " stats/.pid | awk '{print $NF}')
 
   if [[ $(pgrep -c deptran) -gt 0 ]] && [[ $pid -ne 0 ]] && [[ $pid -ne $prevpid ]]; then
-    top -H -b -n $n -d 1 -p $pid > stats/top.log
+    sleep $d
+    top -H -b -n $d -d 1 -p $pid > stats/top.log
     grep "$pid" stats/top.log > stats/.avg
     line=$(grep -c "$pid" stats/.avg)
 

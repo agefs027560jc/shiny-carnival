@@ -8,13 +8,12 @@ touch stats/.tp
 bash mon.sh &
 pid=$!
 echo $pid
-# duration of each run
-d=100
-# #test to be run
-for nrun in {1..1}; do echo -e "#run_${nrun}" >> stats/summary.log;
-for cc in {1..1}; do
-for c in {1..1}; do
-for r in {2..2}; do
+# change below values
+duration=60
+for nrun in {1..3}; do echo -e "#run_${nrun}" >> stats/summary.log;
+for cc in {1,10}; do
+for c in {1,5,10,15,20}; do
+for r in {2,3,5,7}; do
 for v in {1,2}; do
 
   date
@@ -26,7 +25,7 @@ for v in {1,2}; do
     title="${title}_crpc-ring"
   fi
   echo -e "$title\n" > stats/.pid
-  ./build/deptran_server -f config/sample_crpc.yml -f config/${c}c1s${r}r1p.yml -f config/rw.yml -f config/concurrent_${cc}.yml -P localhost -v $v -d $d | tee -a stats/.pid | grep "tid of leader is "
+  time ./build/deptran_server -f config/sample_crpc.yml -f config/${c}c1s${r}r1p.yml -f config/rw.yml -f config/concurrent_${cc}.yml -P localhost -v $v -d $d | tee -a stats/.pid | grep "tid of leader is "
   grep "all clients have shut down" stats/.pid
 
   grep Throughput stats/.pid > stats/.tp
