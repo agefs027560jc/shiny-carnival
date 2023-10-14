@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-set -x -e
+set -e
 
 mkdir -p stats
 touch stats/.avg
