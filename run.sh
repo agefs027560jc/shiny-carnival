@@ -15,7 +15,7 @@ for nrun in {1..1}; do echo -e "#run_${nrun}" >> stats/summary.log;
 for cc in {1,10}; do
 for c in {1,5,10,15,20}; do
 for r in {2,3,5,7}; do
-for v in {0,2}; do
+for v in {1,2}; do
   # cpuset setup
   sudo cgdelete -g cpuset:/cpulimitf
   sudo cgcreate -t $USER:$USER -a $USER:$USER -g cpuset:/cpulimitf
@@ -25,7 +25,7 @@ for v in {0,2}; do
   date
   title="${c}c1s${r}r1p_${cc}-con"
 
-  if [[ $v -eq 0 ]]; then
+  if [[ $v -eq 1 ]]; then
     title="${title}_broadcast"
   elif [[ $v -eq 2 ]]; then
     title="${title}_crpc-ring"
