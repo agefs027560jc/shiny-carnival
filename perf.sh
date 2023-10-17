@@ -17,20 +17,12 @@ while :; do
 
   if [[ $(pgrep -c deptran) -gt 0 \
   && $pid -ne 0 && $pid -ne $prevpid ]]; then
-    echo "(mon) leader tid : " $pid
+    echo "(perf) leader tid : " $pid
 
-    sleep $d
-    top -H -b -n $d -d 1 -p $pid > stats/top.log
-    grep "$pid" stats/top.log > stats/.avg
-    line=$(grep -c "$pid" stats/.avg)
-    calc="((0"
-    for ((i=1; i <= $line; i++)); do
-      x=$(awk 'NR=='$i'{print $9}' stats/.avg)
-      calc="${calc}+${x}"
-    done
-    calc="${calc}))/${line}"
+    perf stat -d -t $pid -o stats/.perf
+    ctx=$(grep "context-switches" stats/.perf | awk '{print $1}')
 
-    python3 -c 'print("%cpu_utils : {0:.2f};".format('$calc'),end=" ")' \
+    python3 -c 'print("ctx_switch : '$ctx';",end=" ")' \
     >> stats/summary.log
 
     c=$(( d * 3 ))
