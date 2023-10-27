@@ -27,8 +27,8 @@ python3 waf configure
 duration=60
 i=0
 e=0
-for b in $(git branch -l route_* | awk '{print $NF}'); do
-# for b in $(git branch --show-current | awk '{print $NF}' | sort --reverse); do
+# for b in $(git branch -l route_* | awk '{print $NF}'); do
+for b in $(git branch --show-current | awk '{print $NF}' | sort --reverse); do
   git checkout $b
   python3 waf -J build
   run="#run_$(( i++ ))_${b}_$(git show --oneline -s | awk '{print $1}')";
