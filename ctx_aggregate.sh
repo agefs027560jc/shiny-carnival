@@ -15,3 +15,4 @@ for subdir in statsperfresult/statsperf_crpc_*/; do
 done
 
 paste -d$'\t' statsperfresult/aggregate_crpc.log statsperfresult/aggregate_bc.log | column -s$'\t' -t > statsperfresult/aggregated_summary.log
+sed -i 's/Running for duration, Throughput: [0-9.]*$/&\n/g' statsperfresult/aggregated_summary.log
